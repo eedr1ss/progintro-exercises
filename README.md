@@ -6,8 +6,8 @@ Useful links:
 - [Youtube](https://youtube.com)
 
 ## Formatting Examples:
-1. *Italic* text.
-2. **Bold** Text.
+1. *Italic* emphasis.
+2. **Bold** emphasis.
 
 This is a markdown file. Markdown is an example of a markup. That means that it can give
 textual elements simple typographical properties.
